@@ -42,6 +42,10 @@ p {
     font-size: 1.2rem;
 }
 
+#closing {
+    color: black;
+}
+
 @keyframes fadeIn {
     from { opacity: 0; transform: translateX(-20px); }
     to { opacity: 1; transform: translateX(0); }
